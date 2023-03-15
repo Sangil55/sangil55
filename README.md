@@ -4,7 +4,7 @@ Yonsei University B.E., Electrical Engineering (2016)
 
 
 ## Work history
-### [Feb. 2023 ~] Nexon Deep learning Researcher (Seoul Korea)
+#### [Feb. 2023 ~] Nexon, Deep learning Researcher (Seoul Korea)
 
 #### [Jan. 2021 ~  Feb. 2023]      HUINNO Co. Ltd  A.I., Deep learning Researcher (Seoul, Korea)
 - Develop deep learning model for ECG single-lead/12 lead classification (10s/beat)
