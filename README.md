@@ -4,6 +4,14 @@ Yonsei University B.E., Electrical Engineering (2016)
 
 
 ## Work history
+#### [Aug. 2023 ~  ]      CLO virtual fashion  A.I., Deep learning Researcher (Seoul, Korea)
+- Built and deployed 20+ new APIs and services for the fashion industry using generative AI models
+- Developed and deployed a 2D CAD image classification model and a system for converting images into 2D patterns for fashion design
+- Developed a virtual avatar and background 3D web viewer using Gaussian Splatting
+- Developed models to generate textures and graphics used in apparel design
+- Prompt Engineering -> Improved system prompts using VLMs and LLMs
+- Automated fashion trend report generation using LLM agents (LangGraph)
+
 #### [Jan. 2021 ~  Feb. 2023]      HUINNO Co. Ltd  A.I., Deep learning Researcher (Seoul, Korea)
 - Develop deep learning model for ECG single-lead/12 lead classification (10s/beat)
 - Develop Light-weight deep learning model with tensorflow-lite
